@@ -8,7 +8,7 @@ https://img.shields.io/github/forks/MrUmerQadoos/portfolio?style=social
 <br />
 <br />
 
-<img src="./public/readme-images/umerqadoos.png" />
+<img src="./public/readme-images/portfolio.png" />
 
 <h2 align="center">Umer Qadoos - Personal portfolio</h2>
 
@@ -32,9 +32,6 @@ Features
 •  A blog page that showcases my writing skills and my thoughts on various topics related to web development, generative AI, and web 3.0.
 
 •  A gallery page that shows some of my graphic artworks that I created using generative AI, with a caption and a link to the source code or the tool that I used.
-
-Demo Screenshots
-![UmerQadoos Portfolio Desktop Demo](./public/readme-images/portfolio.png "Desktop Demo")
 
 Prerequisites
 Before you begin, ensure you have met the following requirements:
